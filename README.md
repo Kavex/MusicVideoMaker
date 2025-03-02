@@ -4,6 +4,8 @@
 
 Music Video Maker is a simple Python GUI application that uses FFmpeg to convert an image and an audio file (MP3/WAV) into an MP4 video. The generated video displays the image for the duration of the audio track.
 
+Download: https://github.com/Kavex/MusicVideoMaker/releases/
+
 ## Features
 
 - **User-friendly GUI:** Built using Tkinter, the application provides a straightforward interface to select the required files.
